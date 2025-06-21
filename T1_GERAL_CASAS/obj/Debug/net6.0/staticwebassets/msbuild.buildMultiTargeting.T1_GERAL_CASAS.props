@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\T1_GERAL_CASAS.props" />
+</Project>
