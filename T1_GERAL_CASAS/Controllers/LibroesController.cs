@@ -159,5 +159,14 @@ namespace T1_GERAL_CASAS.Controllers
         {
           return (_context.Libros?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+
+        public IActionResult Disenio()
+        {
+            return View();
+        }
+        public IActionResult Arquitectura()
+        {
+            return View();
+        }
     }
 }

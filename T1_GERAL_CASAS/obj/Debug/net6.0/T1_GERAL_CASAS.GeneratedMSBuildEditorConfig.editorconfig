@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/upn_i/Downloads/T1_GERAL_CASAS/T1_GERAL_CASAS/Views/Libroes/Arquitectura.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xBcnF1aXRlY3R1cmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/upn_i/Downloads/T1_GERAL_CASAS/T1_GERAL_CASAS/Views/Libroes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/upn_i/Downloads/T1_GERAL_CASAS/T1_GERAL_CASAS/Views/Libroes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/upn_i/Downloads/T1_GERAL_CASAS/T1_GERAL_CASAS/Views/Libroes/Disenio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9lc1xEaXNlbmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/upn_i/Downloads/T1_GERAL_CASAS/T1_GERAL_CASAS/Views/Libroes/Edit.cshtml]
